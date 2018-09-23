@@ -1,0 +1,36 @@
+{
+  "name": "@bemoid/stylelint-config-scss",
+  "version": "0.1.0",
+  "description": "A shareable stylelint config for SCSS used in Bemoid",
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "scss",
+    "bemoid"
+  ],
+  "author": "Jędrzej Chałubek <jedrzej.chalubek@gmail.com> (https://jedrzejchalubek.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bemoid/stylelint-config-scss.git"
+  },
+  "homepage": "https://github.com/bemoid/stylelint-config-scss",
+  "bugs": {
+    "url": "https://github.com/bemoid/stylelint-config-scss/issues"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "@bemoid/stylelint-config": "^0.1.0",
+    "stylelint-order": "^1.0.0",
+    "stylelint-scss": "^3.3.0"
+  },
+  "devDependencies": {
+    "stylelint": "^9.0.0"
+  },
+  "peerDependencies": {
+    "stylelint": "^9.0.0"
+  }
+}
