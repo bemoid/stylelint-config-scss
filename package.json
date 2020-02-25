@@ -1,6 +1,6 @@
 {
   "name": "@bemoid/stylelint-config-scss",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A shareable stylelint config for SCSS used in Bemoid",
   "keywords": [
     "stylelint",
