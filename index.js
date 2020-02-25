@@ -4,7 +4,7 @@ module.exports = {
   "rules": {
     "at-rule-no-unknown": null,
     "no-descending-specificity": null,
-    "no-duplicate-selectors": false,
+    "no-duplicate-selectors": null,
     "scss/at-rule-no-unknown": true,
     "scss/dollar-variable-colon-space-after": "always-single-line",
     "scss/dollar-variable-colon-space-before": "never",
